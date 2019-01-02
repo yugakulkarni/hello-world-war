@@ -1,6 +1,6 @@
  node{
    stage('SCM Checkout'){
-     git 'https://github.com/javahometech/my-app'
+     git 'https://github.com/yugakulkarni/hello-world-war'
    }
    stage('Compile-Package'){
     
